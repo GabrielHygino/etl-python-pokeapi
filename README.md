@@ -7,6 +7,7 @@ Esse é o meu projeto etl (extract, transform, load), onde eu pego todos os poke
 Como utilizar?
 
 Para rodar e conseguir em formato .csv basta rodar o arquivo etl-csv.
+
 Já para conseguir os dados em uma collection do MongoDB basta rodar o arquivo etl-mongo.
 
 
@@ -17,5 +18,6 @@ This is my etl project (extract, transform, load), where I take all the pokemons
 How to use?
 
 To run and get it in .csv format, just run the etl-csv file. 
+
 To get the data in a MongoDB collection, just run the etl-mongo.
 
